@@ -163,3 +163,10 @@ Network ports
 Configuration files
 System logs
 Runtime dependencies (Java version)
+
+<img width="1198" height="383" alt="image" src="https://github.com/user-attachments/assets/407e058f-94e9-47bf-967c-073aaa243443" />
+
+---
+<img width="601" height="48" alt="image" src="https://github.com/user-attachments/assets/bf41d650-442b-4a4c-8dc9-7487043c5452" />
+
+---
